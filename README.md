@@ -1,2 +1,2 @@
-# Taller # 1, DesarrolloWeb
+# Taller # 1, DesarrolloWeb (Mockups)
 Steven Puerto
